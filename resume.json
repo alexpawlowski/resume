@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Alex Pawlowski",
+    "label": "PhD Student applying Metal Additive Manufacturing to Transportation",
+    "picture": "prof_pic.png",
+    "email": "contact@apawlo.ws",
+    "phone": "(xxx) xxx-xxxx",
+    "website": "http://me.apawlo.ws",
+    "summary": "Through the Bredesen Center, Alex does his lab research at ORNL,  using additive manufacturing to improve vehicle efficiency. Alex is focusing on engine components to not only improve AM techniques, but to find paths forward that AM could provide to transportation. The project leverages ORNL's multiple areas of leadership - material science, additive manufacturing, neutron sciences, and engine combustion research - that perfectly complements the interdisciplinary nature of his degree. In his spare time, Alex competes in triathlons at the collegiate level as the President of the Tennessee TriVols - the Triathlon Club at the University of Tennessee.",
+    "location": {
+      "address": "",
+      "postalCode": "TN",
+      "city": "Knoxville",
+      "countryCode": "US",
+      "region": "Tennessee"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "apawlows",
+      "url": "https://twitter.com/apawlows"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "alexpawlowski",
+      "url": "https://linkedin.com/in/alexpawlowski"
+    }
+  ]
+  },
+  "work": [{
+    "company": "Univ of Tennessee / Oak Ridge National Laboratory",
+    "position": "Graduate Research Associate",
+    "website": "http://www.ornl.gov",
+    "startDate": "2014-06-15",
+    "endDate": "2018-12-31",
+    "summary": "AMIPC project",
+    "highlights": [
+      "Completing my PhD at ORNL"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Open Streets Knoxville",
+    "position": "Website Volunteer",
+    "website": "http://openstreetsknoxville.com/",
+    "startDate": "2015-08-01",
+    "endDate": "2018-12-31",
+    "summary": "Help ",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Mechanical Engineering, Engineering Science - Material Science",
+    "studyType": "Bachelor",
+    "startDate": "2010-08-20",
+    "endDate": "2014-05-20",
+    "gpa": "3.2",
+    "courses": [
+      "COMM 3800 Managing Sustainable Development"
+    ]
+  },{
+    "institution": "University",
+    "area": "Energy Science and Engineering - Transportation Science",
+    "studyType": "Doctorate",
+    "startDate": "2014-08-22",
+    "endDate": "2018-12-15",
+    "gpa": "3.9",
+    "courses": [
+      "ME 612: Additive Manufacturing"
+    ]
+  }
+],
+  "awards": [{
+    "title": "21 Society",
+    "date": "2014-02-17",
+    "awarder": "21 Society",
+    "summary": "For volunteerism and leadership at UVa"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Transportation",
+    "keywords": [
+      "Bicycling",
+      "Automotive",
+      "Transit"
+    ]
+  }],
+  "references": [{
+    "name": "Letitia Green",
+    "reference": "Reference..."
+  }]
+}
